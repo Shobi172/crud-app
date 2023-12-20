@@ -1,4 +1,3 @@
-```markdown
 # User Management App
 
 This project is a simple user management application built with React on the frontend and Node.js/Express on the backend.
@@ -91,5 +90,3 @@ This project is a simple user management application built with React on the fro
 ## Contributing
 
 Feel free to contribute by opening issues or submitting pull requests.
-
-```
