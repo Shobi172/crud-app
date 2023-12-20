@@ -39,7 +39,7 @@ This project is a simple user management application built with React on the fro
 
    The app will run on `http://localhost:3000`.
 
-### Backend (Node.js/Express)
+### Backend
 
 1. Ensure you have Node.js and MongoDB installed.
 
@@ -83,7 +83,6 @@ This project is a simple user management application built with React on the fro
 
 - `GET /api/users` - Retrieve all users
 - `GET /api/users/:id` - Retrieve a specific user by ID
-- `POST /api/users` - Add a new user
 - `PUT /api/users/:id` - Update a user by ID
 - `DELETE /api/users/:id` - Delete a user by ID
 
